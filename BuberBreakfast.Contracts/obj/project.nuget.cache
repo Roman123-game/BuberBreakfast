@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UQVrWMLwU3VOXytmIWVxwXhRFBfiFk/RYFKSO4Ti4DkAwP3ldzzDx5359MfF4Qm52EreOFf+1q3pZThx7O33hw==",
+  "dgSpecHash": "ZpE0zJlnmoqynOEO82Tcoo6nGJZCx3g27w0dVVsEMIbIDlQakg8IGs/ajY6tJuin14fIJ9DZj+dT5Xypa7JeIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrR\\Documents\\GitHub\\asp.net\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\mrR\\Documents\\GitHub\\asp.net\\BuberBreakfast\\BuberBreakfast.contracts\\BuberBreakfast.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
